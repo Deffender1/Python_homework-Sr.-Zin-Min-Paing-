@@ -1,3 +1,5 @@
+# 19.10.2026
+# this is a practice exercise for python's cases.
 name = "eric"
 print(f"Hello {name.capitalize()}, would you like to learn some Python today?")
 
